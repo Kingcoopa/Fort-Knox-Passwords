@@ -18,4 +18,4 @@ The real work was going to be fixing the JS code.
 <img width="214" alt="WebApp Screen Shots" src="Images/2020-11-07 (3).png">
 
 ## License
-MIT
+MIT License
