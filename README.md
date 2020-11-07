@@ -13,9 +13,9 @@ properly. After assessing the code, I noticed the HTML and CSS files were coded 
 The real work was going to be fixing the JS code.
 
 ## Screen Shots
-<img width="214" alt="VS Code Screen Shot" src="Images/2020-11-07 (2).png">
+<img width="214" alt="VS Code Screen Shot" src="![2020-11-07 (2)](https://user-images.githubusercontent.com/69878838/98453158-06b50d00-2124-11eb-9a08-ebdf599413dd.png)">
 
-<img width="214" alt="WebApp Screen Shots" src="Images/2020-11-07 (3).png">
+<img width="214" alt="WebApp Screen Shots" src="![2020-11-07 (3)](https://user-images.githubusercontent.com/69878838/98453165-0c125780-2124-11eb-8c64-11033d63635e.png)">
 
 ## License
 MIT License
